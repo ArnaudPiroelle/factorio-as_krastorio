@@ -17,8 +17,6 @@ jobs:
       - uses: actions/checkout@master
       - name: Create Factorio mod package
         uses: Roang-zero1/factorio-mod-package@master
-        with:
-          mod_base_dir: "as2_krastorio" 
       - name: Create GitHub release
         uses: Roang-zero1/github-create-release-action@master
         with:
