@@ -1,0 +1,12 @@
+---------------------------------------------------------------------------------------------------
+Version: 0.0.5
+  No changes
+---------------------------------------------------------------------------------------------------
+Version: 0.0.4
+  Major Features:
+    - Add optional "AAI Programmable Structures" dependency.
+    - Fix IronMan_WarMachine's Ironman armor compatibility with personal roboport.
+---------------------------------------------------------------------------------------------------
+Version: 0.0.3
+  Major Features:
+    - Initial release.
