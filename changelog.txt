@@ -1,4 +1,8 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.7
+  Major Features:
+    - Add optional "Module Inserter" dependency.
+---------------------------------------------------------------------------------------------------
 Version: 0.0.6
   Major Features:
     - Add optional "Better Lamp Contast" dependency for 7-segment displays.
