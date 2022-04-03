@@ -1,6 +1,6 @@
 {
     "name": "as2_krastorio",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "title": "As2pik - Krastorio",
     "description": "Modpack utilisé par As2pik en live",
     "author": "ArnaudPiroelle",
@@ -62,6 +62,7 @@
         "Warehousing >= 0.5.6",
         "Waterfill_v17 >= 1.1",
         "WellPlanner >= 1.1",
-        "? aai-programmable-structures >= 0.7.3"
+        "? aai-programmable-structures >= 0.7.3",
+        "? lamp-contrast >= 1.0.0"
     ]
 }
