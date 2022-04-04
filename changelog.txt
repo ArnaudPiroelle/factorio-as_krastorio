@@ -1,4 +1,8 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.0.8
+  Major Features:
+    - Add missing "Doing Things By Hand" dependency.
+---------------------------------------------------------------------------------------------------
 Version: 0.0.7
   Major Features:
     - Add optional "Module Inserter" dependency.
